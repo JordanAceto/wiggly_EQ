@@ -1,6 +1,6 @@
 ## Rackmount 3-Band Parametric EQ and Compression FX unit
 
-### [SCHEMATIC](TODO)
+### [SCHEMATIC](https://github.com/JordanAceto/wiggly_EQ/blob/main/construction_docs/wiggly_EQ_schematic.pdf)
 
 ### Features:
 #### 3 bands of Parametric EQ
