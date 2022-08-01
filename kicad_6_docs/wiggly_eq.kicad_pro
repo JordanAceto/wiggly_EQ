@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "living_eq.kicad_pro",
+    "filename": "wiggly_eq.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -445,7 +445,7 @@
     ],
     [
       "ff6476a8-1dc5-4ec4-ad2c-bcba90910f0c",
-      "LFO1"
+      "LFO"
     ],
     [
       "89340bc2-31b5-4c9e-a072-11f2015db6de",
