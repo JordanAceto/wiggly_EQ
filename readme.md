@@ -2,6 +2,8 @@
 
 ### [SCHEMATIC](https://github.com/JordanAceto/wiggly_EQ/blob/main/construction_docs/wiggly_EQ_schematic.pdf)
 
+![front panel](./images/front_panel.JPG)
+
 ### Features:
 #### 3 bands of Parametric EQ
 - boost/cut control
